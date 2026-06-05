@@ -1,0 +1,52 @@
+{
+  "jumpscare": {
+    "category": "hostile",
+    "subtitle": "subtitle.jose_arent_here.jumpscare",
+    "sounds": [
+      {
+        "name": "jose_arent_here:jumpscaresound",
+        "stream": true
+      }
+    ]
+  },
+  "ambient1": {
+    "category": "hostile",
+    "subtitle": "subtitle.jose_arent_here.ambient",
+    "sounds": [
+      {
+        "name": "jose_arent_here:sound",
+        "stream": true
+      }
+    ]
+  },
+  "ambient2": {
+    "category": "hostile",
+    "subtitle": "subtitle.jose_arent_here.ambient",
+    "sounds": [
+      {
+        "name": "jose_arent_here:sound2",
+        "stream": true
+      }
+    ]
+  },
+  "ambient3": {
+    "category": "hostile",
+    "subtitle": "subtitle.jose_arent_here.ambient",
+    "sounds": [
+      {
+        "name": "jose_arent_here:sound3",
+        "stream": true
+      }
+    ]
+  },
+  "ambient4": {
+    "category": "hostile",
+    "subtitle": "subtitle.jose_arent_here.ambient",
+    "sounds": [
+      {
+        "name": "jose_arent_here:sound4",
+        "stream": true
+      }
+    ]
+  }
+}

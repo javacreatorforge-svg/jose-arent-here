@@ -1,0 +1,7 @@
+{
+  "entity.jose_arent_here.jose": "Jose.exe",
+  "item.jose_arent_here.jose_spawn_egg": "Jose.exe Spawn Egg",
+  "subtitle.jose_arent_here.jumpscare": "JOSE.EXE",
+  "subtitle.jose_arent_here.ambient": "Something is wrong...",
+  "death.attack.jose_kill": "%1$s met Jose.exe"
+}
